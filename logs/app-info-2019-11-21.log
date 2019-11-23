@@ -1,0 +1,79 @@
+[INFO ] 2019-11-21 08:12:33.138 [main] FileDownloadTest - browser invoked
+[INFO ] 2019-11-21 08:12:38.431 [main] FileDownloadTest - url sent to browser
+[INFO ] 2019-11-21 08:12:38.545 [main] FileDownloadTest - Navigation Menu cliked
+[INFO ] 2019-11-21 08:12:39.225 [main] FileDownloadTest - Download Link clicked
+[INFO ] 2019-11-21 08:12:40.459 [main] FileDownloadTest - Test sent to textfiled
+[INFO ] 2019-11-21 08:12:40.536 [main] FileDownloadTest - .txt file has been created
+[INFO ] 2019-11-21 08:12:40.717 [main] FileDownloadTest - File downloaded
+[INFO ] 2019-11-21 08:14:33.177 [main] AlertMenuTest - Browser invoked
+[INFO ] 2019-11-21 08:14:38.404 [main] AlertMenuTest - Url sent to browser
+[INFO ] 2019-11-21 08:17:42.254 [main] AlertMenuTest - Browser invoked
+[INFO ] 2019-11-21 08:17:47.674 [main] AlertMenuTest - Url sent to browser
+[INFO ] 2019-11-21 08:17:47.793 [main] AlertMenuTest - Naivgation Menu clicked
+[INFO ] 2019-11-21 08:17:48.658 [main] AlertMenuTest - JavaScript Alret Link clicked
+[INFO ] 2019-11-21 08:17:48.759 [main] AlertMenuTest - Single Alret button clicked
+[INFO ] 2019-11-21 08:17:50.323 [main] AlertMenuTest - Alert message save change button clicked
+[INFO ] 2019-11-21 08:17:51.334 [main] AlertMenuTest - multiple Alert Message button clicked
+[INFO ] 2019-11-21 09:53:18.104 [main] FileDownloadTest - browser invoked
+[INFO ] 2019-11-21 09:53:23.071 [main] FileDownloadTest - url sent to browser
+[INFO ] 2019-11-21 09:53:23.219 [main] FileDownloadTest - Navigation Menu cliked
+[INFO ] 2019-11-21 09:53:24.015 [main] FileDownloadTest - Download Link clicked
+[INFO ] 2019-11-21 09:53:25.242 [main] FileDownloadTest - Test sent to textfiled
+[INFO ] 2019-11-21 09:53:25.327 [main] FileDownloadTest - .txt file has been created
+[INFO ] 2019-11-21 09:53:25.507 [main] FileDownloadTest - File downloaded
+[INFO ] 2019-11-21 10:02:35.740 [main] FileDownloadTest - browser invoked
+[INFO ] 2019-11-21 10:02:40.277 [main] FileDownloadTest - url sent to browser
+[INFO ] 2019-11-21 10:02:40.540 [main] FileDownloadTest - Navigation Menu cliked
+[INFO ] 2019-11-21 10:02:41.370 [main] FileDownloadTest - Download Link clicked
+[INFO ] 2019-11-21 10:02:42.841 [main] FileDownloadTest - Test sent to textfiled
+[INFO ] 2019-11-21 10:02:42.924 [main] FileDownloadTest - .txt file has been created
+[INFO ] 2019-11-21 10:02:43.059 [main] FileDownloadTest - File downloaded
+[INFO ] 2019-11-21 10:02:48.498 [main] AlertMenuTest - Browser invoked
+[INFO ] 2019-11-21 10:02:53.304 [main] AlertMenuTest - Url sent to browser
+[INFO ] 2019-11-21 10:02:53.460 [main] AlertMenuTest - Naivgation Menu clicked
+[INFO ] 2019-11-21 10:02:54.280 [main] AlertMenuTest - JavaScript Alret Link clicked
+[INFO ] 2019-11-21 10:02:54.356 [main] AlertMenuTest - Single Alret button clicked
+[INFO ] 2019-11-21 10:02:56.171 [main] AlertMenuTest - Alert message save change button clicked
+[INFO ] 2019-11-21 10:02:57.176 [main] AlertMenuTest - multiple Alert Message button clicked
+[INFO ] 2019-11-21 10:14:31.106 [main] FileDownloadTest - browser invoked
+[INFO ] 2019-11-21 10:14:36.565 [main] FileDownloadTest - url sent to browser
+[INFO ] 2019-11-21 10:14:36.693 [main] FileDownloadTest - Navigation Menu cliked
+[INFO ] 2019-11-21 10:14:37.604 [main] FileDownloadTest - Download Link clicked
+[INFO ] 2019-11-21 10:14:38.806 [main] FileDownloadTest - Test sent to textfiled
+[INFO ] 2019-11-21 10:14:38.876 [main] FileDownloadTest - .txt file has been created
+[INFO ] 2019-11-21 10:14:39.004 [main] FileDownloadTest - File downloaded
+[INFO ] 2019-11-21 10:14:44.008 [main] AlertMenuTest - Browser invoked
+[INFO ] 2019-11-21 10:14:48.692 [main] AlertMenuTest - Url sent to browser
+[INFO ] 2019-11-21 10:14:48.937 [main] AlertMenuTest - Naivgation Menu clicked
+[INFO ] 2019-11-21 10:14:49.752 [main] AlertMenuTest - JavaScript Alret Link clicked
+[INFO ] 2019-11-21 10:14:49.833 [main] AlertMenuTest - Single Alret button clicked
+[INFO ] 2019-11-21 10:14:51.330 [main] AlertMenuTest - Alert message save change button clicked
+[INFO ] 2019-11-21 10:14:52.333 [main] AlertMenuTest - multiple Alert Message button clicked
+[INFO ] 2019-11-21 10:19:22.462 [main] FileDownloadTest - browser invoked
+[INFO ] 2019-11-21 10:19:27.172 [main] FileDownloadTest - url sent to browser
+[INFO ] 2019-11-21 10:19:27.270 [main] FileDownloadTest - Navigation Menu cliked
+[INFO ] 2019-11-21 10:19:28.122 [main] FileDownloadTest - Download Link clicked
+[INFO ] 2019-11-21 10:19:29.316 [main] FileDownloadTest - Test sent to textfiled
+[INFO ] 2019-11-21 10:19:29.395 [main] FileDownloadTest - .txt file has been created
+[INFO ] 2019-11-21 10:19:29.560 [main] FileDownloadTest - File downloaded
+[INFO ] 2019-11-21 10:19:34.766 [main] AlertMenuTest - Browser invoked
+[INFO ] 2019-11-21 10:19:40.095 [main] AlertMenuTest - Url sent to browser
+[INFO ] 2019-11-21 10:19:40.183 [main] AlertMenuTest - Naivgation Menu clicked
+[INFO ] 2019-11-21 10:19:40.999 [main] AlertMenuTest - JavaScript Alret Link clicked
+[INFO ] 2019-11-21 10:19:41.094 [main] AlertMenuTest - Single Alret button clicked
+[INFO ] 2019-11-21 10:19:42.628 [main] AlertMenuTest - Alert message save change button clicked
+[INFO ] 2019-11-21 10:19:43.631 [main] AlertMenuTest - multiple Alert Message button clicked
+[INFO ] 2019-11-21 10:41:22.209 [main] FileDownloadTest - browser invoked
+[INFO ] 2019-11-21 10:41:31.924 [main] FileDownloadTest - url sent to browser
+[INFO ] 2019-11-21 10:41:32.008 [main] FileDownloadTest - Navigation Menu cliked
+[INFO ] 2019-11-21 10:41:34.184 [main] FileDownloadTest - Download Link clicked
+[INFO ] 2019-11-21 10:41:35.377 [main] FileDownloadTest - Test sent to textfiled
+[INFO ] 2019-11-21 10:41:35.446 [main] FileDownloadTest - .txt file has been created
+[INFO ] 2019-11-21 10:41:35.594 [main] FileDownloadTest - File downloaded
+[INFO ] 2019-11-21 10:41:40.557 [main] AlertMenuTest - Browser invoked
+[INFO ] 2019-11-21 10:41:49.950 [main] AlertMenuTest - Url sent to browser
+[INFO ] 2019-11-21 10:41:50.029 [main] AlertMenuTest - Naivgation Menu clicked
+[INFO ] 2019-11-21 10:41:51.302 [main] AlertMenuTest - JavaScript Alret Link clicked
+[INFO ] 2019-11-21 10:41:51.418 [main] AlertMenuTest - Single Alret button clicked
+[INFO ] 2019-11-21 10:41:53.056 [main] AlertMenuTest - Alert message save change button clicked
+[INFO ] 2019-11-21 10:41:54.060 [main] AlertMenuTest - multiple Alert Message button clicked

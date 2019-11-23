@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="testCases.Myliseners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Boost User Loging(failed)">
+    <classes>
+      <class name="testCases.BoostMobileLoginTest">
+        <methods>
+          <include name="exit"/>
+          <include name="UserLoginInformation" invocation-numbers="0"/>
+          <include name="invokeBrowser"/>
+        </methods>
+      </class> <!-- testCases.BoostMobileLoginTest -->
+    </classes>
+  </test> <!-- Boost User Loging(failed) -->
+  <test thread-count="5" verbose="0" name="Boost User Loging DataBaseConnection(failed)">
+    <classes>
+      <class name="testCases.BoostConnectDB">
+        <methods>
+          <include name="SetUserData"/>
+          <include name="invokeBrowser"/>
+          <include name="Exit"/>
+        </methods>
+      </class> <!-- testCases.BoostConnectDB -->
+    </classes>
+  </test> <!-- Boost User Loging DataBaseConnection(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<!-- Listeners class to listen filed test cases -->
+	<listeners>
+		<listener class-name="testCases.Myliseners" />
+		<listener class-name="resources.ExtentReporterNG" />
+	</listeners>
+	<!-- Ending Listeners class -->
+
+	<test name="Boost User Loging">
+		<classes>
+			<class name="testCases.BoostMobileLoginTest" />
+		</classes>
+	</test>
+	<test name="Boost User Loging DataBaseConnection">
+		<classes>
+			<class name="testCases.BoostConnectDB" />
+		</classes>
+	</test>
+	<test name="Landing Page Testing">
+		<classes>
+			<class name="testCases.LandingpageTest" />
+		</classes>
+	</test>
+	<test name="Java Script Alert Testing">
+		<classes>
+			<class name="testCases.JavaScriptAlertTest" />
+		</classes>
+	</test>
+	<test name="Drag And Drop Testing">
+		<classes>
+			<class name="testCases.DragAndDropTest" />
+		</classes>
+	</test>
+	<test name="File Download Testing">
+		<classes>
+			<class name="testCases.FileDownloadTest" />
+		</classes>
+	</test>
+
+	<test name="Alert Menu Testing">
+		<classes>
+			<class name="testCases.AlertMenuTest" />
+		</classes>
+	</test>
+	<test name="Boost Strip list Box Testing">
+		<classes>
+			<class name="testCases.BoostStrapListBoxTest" />
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->

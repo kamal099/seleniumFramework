@@ -1,0 +1,12 @@
+testCases\WindowHandles.class
+testCases\BoostMobileLoginTest.class
+testCases\DragAndDropTest.class
+testCases\DropDownList.class
+testCases\Myliseners.class
+testCases\BookFlightTest.class
+testCases\LandingpageTest.class
+testCases\BoostConnectDB.class
+testCases\BoostStrapListBoxTest.class
+testCases\FileDownloadTest.class
+testCases\AlertMenuTest.class
+testCases\JavaScriptAlertTest.class
